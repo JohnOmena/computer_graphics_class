@@ -23,6 +23,6 @@
 
 ## Vídeo de demonstração
 
-caso haja algum problema de compilação/execução, há um vídeo demonstrando o funcionamento do código na pasta video_demo.
+Caso haja algum problema de compilação/execução, há um vídeo demonstrando o funcionamento do código na pasta video_demo.
 
 ![screenshot](resources/house.png)
